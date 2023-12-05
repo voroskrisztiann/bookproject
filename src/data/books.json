@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Árnyak Kapuja",
+      "description": "Árnyak Kapuja egy különleges fantasy világba kalauzol, ahol egy titokzatos kapu elvezet egy elveszett birodalomhoz. A főhős, Alaric, egy fiatal varázsló, útnak indul, hogy felfedje a kapu titkait, miközben ősi sötétségek próbálnak megállítani a küldetésében. A történet tele van varázslattal, kalanddal és váratlan fordulatokkal.",
+      "categories": ["Fantasy", "Kaland"]
+    },
+    {
+      "id": 2,
+      "title": "Az Éj Szentjei",
+      "description": "Az Éj Szentjei egy misztikus thriller, ahol a város éjjeli élete összefonódik a különös vallási kultussal. Amikor egy rejtélyes sorozatgyilkos kezdi el üldözni a város lakóit, a detektív, Sarah Thornton, nyomozásával szembesül a sötét titkokkal és régi babonákkal, amelyek az éjszaka mélyén rejlenek.",
+      "categories": ["Misztikus thriller", "Krimi"]
+    },
+    {
+      "id": 3,
+      "title": "Időutazók Jegyei",
+      "description": "Az Időutazók Jegyei egy kalandos sci-fi regény, ahol két fiatal, Emma és Nathan egy különleges időgép segítségével utaznak múltba és jövőbe. Ahogy felfedezik az idő rejtelmeit, rájönnek, hogy minden döntésük hatással van a jelenre és a jövőre egyaránt.",
+      "categories": ["Sci-Fi", "Kaland"]
+    },
+    {
+      "id": 4,
+      "title": "A Tükrök Városa",
+      "description": "A Tükrök Városa egy mágikus urban fantasy, ahol a város két párhuzamos dimenzióban létezik: egy valóságos és egy varázslatos. A főhős, Olivia, egy hétköznapi tinédzser, váratlanul átlép a varázslatos világba, ahol meg kell találnia a módját, hogy visszajusson a saját világába.",
+      "categories": ["Urban Fantasy", "Mágikus Realizmus"]
+    },
+    {
+      "id": 5,
+      "title": "Az Elfelejtett Könyvtár",
+      "description": "Az Elfelejtett Könyvtár egy misztikus könyvtárat követi nyomon, amely csak a világok közötti rejtélyes átjárókon keresztül érhető el. A könyvtáros, Amelia, váratlanul találja magát egy olyan kalandban, ahol ősi könyvek, varázslatos lények és veszélyes titkok várnak rá.",
+      "categories": ["Misztikus", "Kaland"]
+    },
+    {
+      "id": 6,
+      "title": "A Csillagok Hercegnője",
+      "description": "A Csillagok Hercegnője egy epikus űropera, ahol a bolygók közötti háború dúl, és egy fiatal hercegnő, Seraphina, az utolsó remény a béke megmentésére. A történet tele van csillagokkal, űrhajókkal, és az örökös küzdelemmel a jó és a rossz között a galaktikus birodalmakban.",
+      "categories": ["Űropera", "Sci-Fi"]
+    }
+  ]
+}

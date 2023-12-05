@@ -1,0 +1,28 @@
+.header {
+  background-color: var(--clr-primary);
+}
+.containerHeader {
+  display: flex;
+  justify-content: space-between;
+  width: 120rem;
+  margin: 0 auto;
+}
+.logo {
+  font-size: 3.2rem;
+  align-self: center;
+  color: white;
+}
+.btnNav {
+  height: 6rem;
+  font-size: 1.6rem;
+  padding: 0 3rem;
+  background: none;
+  border: none;
+  transition: all 300ms;
+  color: white;
+}
+.btnNav:hover {
+  /* color: rgb(255, 136, 0); */
+  background-color: #06354b;
+  cursor: pointer;
+}
